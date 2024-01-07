@@ -1,0 +1,1 @@
+{'num_layers': 3, 'learning_rate': 0.004977023564332114, 'hidden_size': 256, 'final_decoder_hidden': 64, 'dropout_rate': 0.0, 'decoder_output_dim': 8}0.9538087844848633
